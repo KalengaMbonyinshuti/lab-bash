@@ -1,0 +1,39 @@
+ANSWERS. 
+
+1. Using the echo command print in console "Hello World". 
+Here is some info about echo command 
+[https://discuss.codecademy.com/t/what-are-practical-uses-of-the-echo-command/394788]
+
+Answer: $echo "Hello Rwanda"
+
+2. Create a new directory called new_dir.
+
+Answer: dmkir new_dir
+
+3. delete/remove the directory new_dir
+
+Answer: rm -rf new_dir
+
+4. Copy the file sed.txt from the lorem folder and paste it to the folder lorem-copy folder.
+
+Answer: cp lorem/sed.txt/lorem-copy
+
+5. Copy the other two files from the lorem folder to lorem-copy 
+folder in just one line using semicolon ;.
+
+Answer: cp lorem-folder/lorem-folder
+
+6. Show the sed.txt file content from the lorem folder.
+
+Answer: cat sed.txt
+
+7. Show the at.txt file and lorem.txt file contents from lorem folder.
+
+Answer: cat at.text
+	 cat lorem.txt
+
+8. print the first 3 rows in sed.txt file from lorem-copy folder
+Answer: head -3 sed.txt
+
+9. print the last 3 rows in sed.txt file from lorem_copy folder
+Answer: tail -3 sed.txt
