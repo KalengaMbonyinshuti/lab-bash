@@ -37,3 +37,19 @@ Answer: head -3 sed.txt
 
 9. print the last 3 rows in sed.txt file from lorem_copy folder
 Answer: tail -3 sed.txt
+
+10. add Homo homini lupus. at the end of sed.txt 
+Answer: Echo "Homo homini lupus">> sed.txt
+
+11. print the last rows in sed.txt file from lorem_copy
+Answer: tail -3 sed.txt
+
+12. 
+
+13. Who is the current user
+Answer: id or whoami.
+
+14. find the current path of the directory you are in
+Answer: pwd
+
+15.
